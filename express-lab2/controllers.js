@@ -1,5 +1,5 @@
 const getRoot = (req, res) => {
-  res.send('edpoint get /');
+  res.send('this is npm tool /');
 };
 
 module.exports = { getRoot };
